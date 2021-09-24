@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/AreaServerWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/NationServerWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/Region" />
+    <file type="web" url="file://$PROJECT_DIR$/RegionServerWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/RegionWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Area/pom.xml" />
+        <option value="$PROJECT_DIR$/Nation/pom.xml" />
+        <option value="$PROJECT_DIR$/Region/pom.xml" />
+        <option value="$PROJECT_DIR$/RegionWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/pom.xml" />
+        <option value="$PROJECT_DIR$/Interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/NationServerWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/AreaServerWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/RegionServerWeb/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
