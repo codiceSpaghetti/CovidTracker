@@ -1,5 +1,4 @@
-# DSMT_CovidTracker
-Project for the <i>'Distributed Systems and Middleware Technologies'</i> course. Please, check the [Documentation](documentazione_finale_definitiva.pdf) for a complete view. 
+# CovidTracker
 
 ## Introduction
 The project consists in the creation of a hierarchical network which allows to track data inherent to the Covid-19 pandemic (e.g. number of positives, negatives, swabs and dead) from different hospitals, and to elaborate them in order to produce statistical aggregations.
@@ -8,6 +7,14 @@ We provide a three layer hierarchy composed by:
 1. A national node.
 2. Three area nodes (north, center and south).
 3. Twenty region nodes, one for each region.
+
+Here there is an overview of the Architecture of the whole system:
+
+<p align="center">
+  <img src="system_architecture.png" alt="image">
+</p>
+
+Please, check the [Documentation](Documentation.pdf) for a complete view. 
 
 ## Implementation
 The application is hosted on a Glassfish server (version 5.1)
