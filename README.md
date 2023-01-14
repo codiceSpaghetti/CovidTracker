@@ -1,9 +1,9 @@
 # CovidTracker
 
 ## Introduction
-The project consists in the creation of a hierarchical network which allows to track data inherent to the Covid-19 pandemic (e.g. number of positives, negatives, swabs and dead) from different hospitals, and to elaborate them in order to produce statistical aggregations.
+The project aims to establish a distributed system with a hierarchical organization that tracks data related to the Covid-19 pandemic such as the number of positive, negative, and inconclusive test results, and fatalities, from multiple hospitals. The network then processes this data to generate statistical aggregations.
 
-We provide a three layer hierarchy composed by:
+To cover the Italian territory we provide a three layer hierarchy composed by:
 1. A national node.
 2. Three area nodes (north, center and south).
 3. Twenty region nodes, one for each region.
